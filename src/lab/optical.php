@@ -1049,9 +1049,10 @@ mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="216
 </v:shapetype><v:shape id="Picture_x0020_3" o:spid="_x0000_i1026" type="#_x0000_t75"
  style='width:487.5pt;height:193.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Optical files/image001.png" o:title=""/>
-</v:shape><![endif]--><![if !vml]><img width=650 height=258
-src="Optical files/image002.png" v:shapes="Picture_x0020_3"><![endif]></span><span
-lang=EN-IN style='font-family:"Times New Roman","serif"'><o:p></o:p></span></p>
+</v:shape><![endif]--><![if !vml]>
+<a href="Optical files/image002.png" target="_blank">
+<img width=650 height=258
+src="Optical files/image002.png"/></a></p>
 
 <p class=MsoNormal style='line-height:normal'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:18.0pt;mso-bidi-font-size:11.0pt;font-family:
@@ -1104,9 +1105,10 @@ mso-ansi-language:EN-US;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Pictur
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Optical files/image003.emz" o:title="" croptop="17387f"
   cropbottom="1449f" cropleft="10524f" cropright="3987f"/>
-</v:shape><![endif]--><![if !vml]><img width=320 height=285
-src="Optical files/image004.png" v:shapes="Picture_x0020_5"><![endif]></span><span
-style='font-family:"Times New Roman","serif";mso-ansi-language:EN-US'><o:p></o:p></span></p>
+</v:shape><![endif]--><![if !vml]>
+<a href="Optical files/image004.png" target="_blank">
+<img width=320 height=285
+src="Optical files/image004.png"/></a></p>
 
 <p class=MsoNormal align=center style='margin-top:12.0pt;margin-right:0in;
 margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center;
@@ -1167,7 +1169,7 @@ lang=EN-IN style='mso-bidi-font-size:12.0pt;line-height:115%;font-family:"Times 
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>2.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 lang=EN-IN style='mso-bidi-font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>On
-one side of the hole stick a no.1 cover slip (0.13 – 0.17 &#956;m thickness) such
+one side of the hole stick a no.1 cover slip (0.13 Â– 0.17 &#956;m thickness) such
 that it does not come out easily from the slide. Thus a well is being formed.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
@@ -1199,7 +1201,7 @@ lang=EN-IN style='mso-bidi-font-size:12.0pt;line-height:115%;font-family:"Times 
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>6.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 lang=EN-IN style='mso-bidi-font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>Turn
-on the ‘ML’ button to convert it to the femtosecond pulse Laser.<o:p></o:p></span></p>
+on the Â‘MLÂ’ button to convert it to the femtosecond pulse Laser.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
 lang=EN-IN style='mso-bidi-font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif";
