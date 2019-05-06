@@ -2,6 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
 <head>
+<script type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
 
 <title>Ultrafast Laser Spectroscopy: Department of Chemistry : Indian Institute of Technology Kanpur </title>  
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico"> 
@@ -1281,7 +1282,7 @@ auto;text-align:justify;text-indent:-.25in;mso-list:l4 level1 lfo8'><![if !suppo
 lang=EN-IN style='font-family:"Times New Roman","serif";mso-fareast-font-family:
 "Times New Roman"'><span style='mso-list:Ignore'>18.<span style='font:7.0pt "Times New Roman"'>&nbsp;
 </span></span></span><![endif]><span lang=EN-IN style='font-family:"Times New Roman","serif"'>Click
-on the scan once button getting the image of the live cell sample.<o:p></o:p></span></p>
+on the scan once button getting the image of the live cell sample.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
 margin-bottom:0in;margin-left:.75in;margin-bottom:.0001pt;mso-add-space:auto;
@@ -1291,7 +1292,7 @@ lang=EN-IN style='font-family:"Times New Roman","serif";mso-fareast-font-family:
 </span></span></span><![endif]><span lang=EN-IN style='font-family:"Times New Roman","serif"'>Save
 the image by clicking the buttons in the following order: File I/O <span
 class=GramE>=</span>&gt; Save Image as and then select the file type (.TIFF or
-.BMP) and where to save the image and then click the save button to save the
+.BMP) and where to save the image and then click the save button to save the
 image(s).<o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
