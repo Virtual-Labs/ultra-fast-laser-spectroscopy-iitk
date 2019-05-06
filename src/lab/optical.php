@@ -2,6 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
 <head>
+<script type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
 
 <title>Ultrafast Laser Spectroscopy: Department of Chemistry : Indian Institute of Technology Kanpur </title>  
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico"> 
@@ -1169,7 +1170,7 @@ lang=EN-IN style='mso-bidi-font-size:12.0pt;line-height:115%;font-family:"Times 
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>2.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 lang=EN-IN style='mso-bidi-font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>On
-one side of the hole stick a no.1 cover slip (0.13  0.17 &#956;m thickness) such
+one side of the hole stick a no.1 cover slip (0.13 0.17 &#956;m thickness) such
 that it does not come out easily from the slide. Thus a well is being formed.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
@@ -1201,7 +1202,7 @@ lang=EN-IN style='mso-bidi-font-size:12.0pt;line-height:115%;font-family:"Times 
 mso-fareast-font-family:"Times New Roman"'><span style='mso-list:Ignore'>6.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 lang=EN-IN style='mso-bidi-font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif"'>Turn
-on the ML button to convert it to the femtosecond pulse Laser.<o:p></o:p></span></p>
+on the ML button to convert it to the femtosecond pulse Laser.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='text-indent:-.25in;mso-list:l5 level1 lfo7'><![if !supportLists]><span
 lang=EN-IN style='mso-bidi-font-size:12.0pt;line-height:115%;font-family:"Times New Roman","serif";
